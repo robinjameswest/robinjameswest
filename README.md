@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Robin James West and I'm a Data Scientist, from South Africa.</h2>
+<h2 align="left">Hi 👋! My name is Robin James West and I'm a Data Scientist, Co-Founder and Web3 Engineer.</h2>
 
 ###
 
